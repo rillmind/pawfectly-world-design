@@ -20,8 +20,8 @@ Os estilos ficam em `css/` e o ícone de "adicionar" em `img/mais.png`.
 
 ## Por que existe
 
-Faz parte do TCC do curso técnico em Informática do IFPE (2023), a Pawfectly World. Este
-protótipo definiu as telas antes do front-end; a API está em
+Faz parte do TCC do curso técnico em Informática do IFPE (2023), a Pawfectly World: é o
+protótipo visual das telas da rede social. A API está em
 [pawfectly-world-api](https://github.com/rillmind/pawfectly-world-api).
 
 ## Instalação
